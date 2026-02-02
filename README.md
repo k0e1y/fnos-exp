@@ -14,4 +14,4 @@
 - **可展开目录** - 点击目录前的箭头自动加载子目录内容
 - **文件内容查看** - 点击文件名即可查看文件内容
 
-<img width="1499" height="1049" alt="image" src="https://github.com/user-attachments/assets/4741486c-daeb-4097-82a2-b21af888cbab" />
+<img width="1500" height="1050" alt="image" src="https://github.com/user-attachments/assets/4623f5c2-1854-4988-af87-1fc0a8efa47b" />
